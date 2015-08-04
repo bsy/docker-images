@@ -1,4 +1,4 @@
-FROM bsy/rbenv
+FROM benyee/rbenv
 MAINTAINER  Ben Yee <benyee@gmail.com>
 ENV INSTALL_RUBY_VERSION 2.2.2
 

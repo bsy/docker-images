@@ -1,4 +1,4 @@
-FROM bsy/base:trusty
+FROM benyee/base:trusty
 MAINTAINER  Ben Yee <benyee@gmail.com>
 
 # Install rbenv and ruby-build
